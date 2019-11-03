@@ -26,7 +26,7 @@ function pc_Choice()
 
 	var random_num=Math.floor(Math.random()*3);
 
-	return pc[random_num];
+	return pc[0];
 }
 
 function winOrLose()
